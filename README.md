@@ -3,7 +3,7 @@
 ## Tree
 
 DbTree
-[kvf77/DbTree](https//github.com/kvf77/DbTree)
+[kvf77/DbTree](kvf77/DbTree)
 
 This class can be used to manipulate nested sets of database table.
 PHP 11
