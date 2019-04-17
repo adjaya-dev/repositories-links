@@ -167,11 +167,11 @@
 
 ## JavaScript - JQuery
 
-*nestedSortable
+* nestedSortable
   [ilikenwf/nestedSortable](https://github.com/ilikenwf/nestedSortable)
 
   A jQuery plugin that extends Sortable UI functionalities to nested lists.
-J avaScript 527
+  JavaScript 527
 
 
 
