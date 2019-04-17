@@ -2,7 +2,7 @@
 
 ## Tree
 
-DbTree
+* DbTree
 [kvf77/DbTree](https://github.com/kvf77/DbTree)
 
 This class can be used to manipulate nested sets of database table.
@@ -10,7 +10,7 @@ PHP 11
 
 
 
-Tree
+* Tree
 [soliveira-vouga/Tree](https://github.com/soliveira-vouga/Tree)
 
 A PHP library for managing adjacency list and nested set trees
